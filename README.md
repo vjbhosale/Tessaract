@@ -1,2 +1,0 @@
-# Tessaract
-interview vijay tessaract
